@@ -1,4 +1,3 @@
-```markdown
 # FlashDeals E-Commerce Database System  
 **Academic Database Systems Project | MySQL**
 
