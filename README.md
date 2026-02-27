@@ -8,7 +8,7 @@ FlashDeals is an academic **database systems** project focused on designing and 
 The system models a **high-concurrency online marketplace** where database reliability, consistency, and efficient data retrieval are critical.
 
 **Full Technical Report:**  
-*[Add link or file reference here]*
+*(https://github.com/kamzeea/flashdeals-ecommerce-database-system/blob/main/docs/Flash%20Deals%20Final%20Report.docx)*
 
 ---
 
